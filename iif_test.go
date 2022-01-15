@@ -3,7 +3,7 @@ package iif_test
 import (
 	"encoding/json"
 	"github.com/bradleyjkemp/cupaloy"
-	iif "github.com/joshuaslate/iif"
+	"github.com/joshuaslate/iif"
 	"io/ioutil"
 	"os"
 	"testing"
