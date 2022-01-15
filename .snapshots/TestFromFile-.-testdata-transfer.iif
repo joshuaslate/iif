@@ -1,0 +1,1 @@
+[{"Key":"TRNS","RawData":{"ACCNT":"Checking","AMOUNT":"-500","CLEAR":"N","DATE":"7/1/98","DOCNUM":"123","MEMO":"Funds Transfer","NAME":"","TRNSID":"","TRNSTYPE":"TRANSFER"},"Entries":[{"Key":"SPL","RawData":{"ACCNT":"Savings","AMOUNT":"500","CLEAR":"N","DATE":"7/1/98","DOCNUM":"","MEMO":"","NAME":"","SPLID":"","TRNSTYPE":"TRANSFER"},"Entries":null}]}]

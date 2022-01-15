@@ -1,0 +1,1 @@
+[{"Key":"TRNS","RawData":{"ACCNT":"Savings","AMOUNT":"650","CLASS":"","DATE":"7/1/98","DOCNUM":"","MEMO":"","TRNSID":"","TRNSTYPE":"GENERAL JOURNAL"},"Entries":[{"Key":"SPL","RawData":{"ACCNT":"Construction:Labor","AMOUNT":"-650","CLASS":"","DATE":"7/1/98","DOCNUM":"","MEMO":"","SPLID":"","TRNSTYPE":"GENERAL JOURNAL"},"Entries":null}]}]

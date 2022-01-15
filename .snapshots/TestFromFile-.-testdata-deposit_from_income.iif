@@ -1,0 +1,1 @@
+[{"Key":"TRNS","RawData":{"ACCNT":"Checking","AMOUNT":"50","CLASS":"","CLEAR":"N","DATE":"7/16/98","DOCNUM":"","NAME":"","TRNSID":"15","TRNSTYPE":"DEPOSIT"},"Entries":[{"Key":"SPL","RawData":{"ACCNT":"Construction:Labor","AMOUNT":"-50","CLASS":"Team A","CLEAR":"N","DATE":"7/16/98","DOCNUM":"236","NAME":"Favor, Lynn:Sun Room","SPLID":"16","TRNSTYPE":"DEPOSIT"},"Entries":null}]}]

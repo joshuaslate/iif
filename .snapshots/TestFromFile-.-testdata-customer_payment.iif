@@ -1,0 +1,1 @@
+[{"Key":"TRNS","RawData":{"ACCNT":"Undeposited Funds","AMOUNT":"500","DATE":"7/16/98","DOCNUM":"321","NAME":"Ecker Designs:Office Repairs","TRNSID":" ","TRNSTYPE":"PAYMENT"},"Entries":[{"Key":"SPL","RawData":{"ACCNT":"Accounts Receivable","AMOUNT":"-500","DATE":"7/16/98","DOCNUM":"321","NAME":"Ecker Designs:Office Repairs","SPLID":" ","TRNSTYPE":"PAYMENT"},"Entries":null}]}]
