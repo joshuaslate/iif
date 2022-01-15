@@ -5,12 +5,12 @@
 
 ## Usage
 ```go
-iifFile, err := os.Open("./transactions.iif")
+iiifile, err := os.Open("./transactions.iif")
 if err != nil {
 	panic("failed to open transactions iif file")
 }
 
-defer iifFile.Close()
+defer iiifile.Close()
 
 iifData, err := iif.FromFile(file)
 if err != nil {

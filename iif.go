@@ -85,8 +85,8 @@ func parseIIF(rows [][]string) ([]Entry, error) {
 }
 
 // FromFile accepts a tab-delimited Intuit Interchange Format (.IIF) file as input and parses it into a slice of Entry if valid
-func FromFile(iifFile io.Reader) ([]Entry, error) {
-	reader := csv.NewReader(iifFile)
+func FromFile(iiifile io.Reader) ([]Entry, error) {
+	reader := csv.NewReader(iiifile)
 
 	// IIFs are tab-delimited
 	reader.Comma = '\t'
